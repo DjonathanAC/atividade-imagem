@@ -2,6 +2,6 @@
 <Html>
   <Body>
      <H1>imagem html</h1>
-     <Img src= "branco.jpg" alt= "xaropinho"/>
+     <Img src= "xaropinho.jpg" alt= "xaropinho"/>
   </Body>
 </Html>
