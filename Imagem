@@ -2,6 +2,6 @@
 <Html>
   <Body>
      <H1>imagem html</h1>
-     <Img src= "/storage/emulated/0/Download xaropinho.png" alt= "xaropinho"/>
+     <Img src= "IMAGENS/xaropinho.png" alt= "xaropinho"/>
   </Body>
 </Html>
